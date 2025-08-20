@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "wgbYMJ/ViJk=",
+  "success": true,
+  "projectFilePath": "/Users/pasindurathnayake/Desktop/pasindu/working/Clean-Architecture/02 - Application Layer/Bookify/src/Bookify.Domain/Bookify.Domain.csproj",
+  "expectedPackageFiles": [
+    "/Users/pasindurathnayake/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
+    "/Users/pasindurathnayake/.nuget/packages/microsoft.netcore.app.ref/8.0.18/microsoft.netcore.app.ref.8.0.18.nupkg.sha512",
+    "/Users/pasindurathnayake/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.18/microsoft.aspnetcore.app.ref.8.0.18.nupkg.sha512"
+  ],
+  "logs": []
+}
