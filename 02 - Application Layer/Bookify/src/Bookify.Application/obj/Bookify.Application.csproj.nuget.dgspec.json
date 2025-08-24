@@ -1,34 +1,33 @@
 {
   "format": 1,
   "restore": {
-    "/Users/pasindurathnayake/Desktop/pasindu/working/Clean-Architecture/02 - Application Layer/Bookify/src/Bookify.Application/Bookify.Application.csproj": {}
+    "/workspace/02 - Application Layer/Bookify/src/Bookify.Application/Bookify.Application.csproj": {}
   },
   "projects": {
-    "/Users/pasindurathnayake/Desktop/pasindu/working/Clean-Architecture/02 - Application Layer/Bookify/src/Bookify.Application/Bookify.Application.csproj": {
+    "/workspace/02 - Application Layer/Bookify/src/Bookify.Application/Bookify.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/pasindurathnayake/Desktop/pasindu/working/Clean-Architecture/02 - Application Layer/Bookify/src/Bookify.Application/Bookify.Application.csproj",
+        "projectUniqueName": "/workspace/02 - Application Layer/Bookify/src/Bookify.Application/Bookify.Application.csproj",
         "projectName": "Bookify.Application",
-        "projectPath": "/Users/pasindurathnayake/Desktop/pasindu/working/Clean-Architecture/02 - Application Layer/Bookify/src/Bookify.Application/Bookify.Application.csproj",
-        "packagesPath": "/Users/pasindurathnayake/.nuget/packages/",
-        "outputPath": "/Users/pasindurathnayake/Desktop/pasindu/working/Clean-Architecture/02 - Application Layer/Bookify/src/Bookify.Application/obj/",
+        "projectPath": "/workspace/02 - Application Layer/Bookify/src/Bookify.Application/Bookify.Application.csproj",
+        "packagesPath": "/home/ubuntu/.nuget/packages/",
+        "outputPath": "/workspace/02 - Application Layer/Bookify/src/Bookify.Application/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/pasindurathnayake/.nuget/NuGet/NuGet.Config"
+          "/home/ubuntu/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "/usr/local/share/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/pasindurathnayake/Desktop/pasindu/working/Clean-Architecture/02 - Application Layer/Bookify/src/Bookify.Domain/Bookify.Domain.csproj": {
-                "projectPath": "/Users/pasindurathnayake/Desktop/pasindu/working/Clean-Architecture/02 - Application Layer/Bookify/src/Bookify.Domain/Bookify.Domain.csproj"
+              "/workspace/02 - Application Layer/Bookify/src/Bookify.Domain/Bookify.Domain.csproj": {
+                "projectPath": "/workspace/02 - Application Layer/Bookify/src/Bookify.Domain/Bookify.Domain.csproj"
               }
             }
           }
@@ -42,8 +41,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.300"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -77,42 +75,31 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[8.0.18, 8.0.18]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[8.0.18, 8.0.18]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/home/ubuntu/.dotnet/sdk/8.0.413/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/pasindurathnayake/Desktop/pasindu/working/Clean-Architecture/02 - Application Layer/Bookify/src/Bookify.Domain/Bookify.Domain.csproj": {
+    "/workspace/02 - Application Layer/Bookify/src/Bookify.Domain/Bookify.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/pasindurathnayake/Desktop/pasindu/working/Clean-Architecture/02 - Application Layer/Bookify/src/Bookify.Domain/Bookify.Domain.csproj",
+        "projectUniqueName": "/workspace/02 - Application Layer/Bookify/src/Bookify.Domain/Bookify.Domain.csproj",
         "projectName": "Bookify.Domain",
-        "projectPath": "/Users/pasindurathnayake/Desktop/pasindu/working/Clean-Architecture/02 - Application Layer/Bookify/src/Bookify.Domain/Bookify.Domain.csproj",
-        "packagesPath": "/Users/pasindurathnayake/.nuget/packages/",
-        "outputPath": "/Users/pasindurathnayake/Desktop/pasindu/working/Clean-Architecture/02 - Application Layer/Bookify/src/Bookify.Domain/obj/",
+        "projectPath": "/workspace/02 - Application Layer/Bookify/src/Bookify.Domain/Bookify.Domain.csproj",
+        "packagesPath": "/home/ubuntu/.nuget/packages/",
+        "outputPath": "/workspace/02 - Application Layer/Bookify/src/Bookify.Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/pasindurathnayake/.nuget/NuGet/NuGet.Config"
+          "/home/ubuntu/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "/usr/local/share/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -130,8 +117,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.300"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -153,22 +139,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[8.0.18, 8.0.18]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[8.0.18, 8.0.18]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/home/ubuntu/.dotnet/sdk/8.0.413/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
